@@ -1,6 +1,6 @@
 # recipe_flutter
 
-A new Flutter project.
+Recipe Application Made with Flutter project.
 
 ## Getting Started
 
